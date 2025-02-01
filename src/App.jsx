@@ -14,7 +14,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom"
 
 let x = createBrowserRouter(
   [
-    {path: "" , element: <Layout /> , 
+    {path: "first-react" , element: <Layout /> , 
       children : [ 
       { index : true , element: <Home /> },
       {path: "about" , element: <About /> },
