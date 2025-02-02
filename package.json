@@ -2,7 +2,7 @@
   "name": "firstreact",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dina-94.github.io/first-react2",
+  "homepage": "https://dina-94.github.io/first-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
